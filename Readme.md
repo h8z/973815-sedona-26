@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Игорь Басихин](https://up.htmlacademy.ru/adaptive/26/user/973815).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://up.htmlacademy.ru/adaptive/26/user/78239).
 
 ---
 
